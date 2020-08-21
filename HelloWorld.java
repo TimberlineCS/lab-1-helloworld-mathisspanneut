@@ -1,0 +1,15 @@
+/* Mathis Spanneut
+Ap CSA
+08/21/20
+*/
+
+public class HelloWorld{
+  public static void main(String args[]) {
+    System.out.println("$$....$$ $$$$$$$$");
+    System.out.println("$$....$$ ...$$...");
+    System.out.println("$$$$$$$$ ...$$...");
+    System.out.println("$$....$$ ...$$...");
+    System.out.println("$$....$$ $$$$$$$$");
+  
+  }
+}
